@@ -1,14 +1,14 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/gloera/v4/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/gloera/gabev1/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  gabeloera.com - v4
+  gabeloera.com - v1 
 </h1>
 <p align="center">
   The fourth iteration of <a href="https://gabeloera.com" target="_blank">gabeloera.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/gloera/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/gloera/gabev1/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
